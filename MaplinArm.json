@@ -1,0 +1,24 @@
+{	"extensionName": "Maplin Arm",
+	"extensionPort": 14275,
+	"blockSpecs": [
+
+		["w", "Rotate clock-wise for %n second(s)", "rotatecw", 1],
+		["w", "Rotate anti clock-wise for %n second(s)", "rotateccw", 1],
+
+		["w", "Shoulder up for %n second(s)", "shoulderup", 1],
+		["w", "Shoulder down for %n second(s)", "shoulderdown", 1],
+
+		["w", "Elbow up for %n second(s)", "elbowup", 1],
+		["w", "Elbow down for %n second(s)", "elbowdown", 1],
+
+		["w", "Wrist up for %n second(s)", "wristup", 1],
+		["w", "Wrist down for %n second(s)", "wristdown", 1],
+
+		["w", "Grip close for %n second(s)", "gripopen", 1],
+		["w", "Grip open for %n second(s)", "gripclose", 1],
+
+		[" ", "Light ON", "lighton"],
+		[" ", "Light OFF", "lightoff"]
+	]
+	},
+}
